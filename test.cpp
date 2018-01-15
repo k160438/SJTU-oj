@@ -1,4 +1,9 @@
-#include<iostream>
+#include <iostream>
+#include <string>
 using namespace std;
-
-cout<<"hello world"<<endl;
+int a = 2;
+int main()
+{
+    cout<<a<<endl;
+    return 0;
+}
