@@ -5,6 +5,7 @@
             "intelliSenseMode": "clang-x64",
             "includePath": [
                 "${workspaceFolder}",
+                "${fileDirname}",
                 "D:/MinGW/lib/gcc/mingw32/6.3.0/include/c++",
                 "D:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32",
                 "D:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/backward",
@@ -21,6 +22,7 @@
             "browse": {
                 "path": [
                     "${workspaceFolder}",
+                    "${fileDirname}",
                     "D:/MinGW/lib/gcc/mingw32/6.3.0/include/c++",
                     "D:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32",
                     "D:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/backward",
