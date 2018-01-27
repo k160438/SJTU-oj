@@ -4,7 +4,7 @@ using namespace std;
 
 class MyComplex
 {
-    friend istream &operator>>(istream &is, const MyComplex &c);
+    friend istream &operator>>(istream &is, MyComplex &c);
     friend ostream &operator<<(ostream &os, const MyComplex &c);
     friend MyComplex operator+(const MyComplex &a, const MyComplex &b);
     friend MyComplex operator-(const MyComplex &a, const MyComplex &b);
