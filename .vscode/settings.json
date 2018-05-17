@@ -1,6 +1,16 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "istream": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "limits": "cpp",
+        "cstdio": "cpp",
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp"
     }
 }
