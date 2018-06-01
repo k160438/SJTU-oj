@@ -25,7 +25,7 @@ class Graph
     {
         verList = new verNode[n + 1];
         for (int i = 1; i <= n; ++i)
-            verList[i].id = 1;
+            verList[i].id = i;
     }
     ~Graph()
     {
